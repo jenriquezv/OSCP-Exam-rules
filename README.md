@@ -1,4 +1,5 @@
 # OSCP-Exam-rules
+https://help.offensive-security.com/hc/en-us/articles/360040165632
 
 #Proctoring Tool Student Manual \
 https://help.offensive-security.com/hc/en-us/articles/360050299352 \
